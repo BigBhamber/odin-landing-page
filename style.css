@@ -100,4 +100,27 @@ img{
     border: 3px solid;
     border-color: #3882f6;
 }
+.body3{
+    background-color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+.quote-sec{
+    display: flex;
+    flex-direction: column; 
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+
+}
+.author{
+    align-self: flex-end;
+    text-align: right;
+    font-size: 16px;
+    font-weight: bold;
+}
 
